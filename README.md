@@ -1,2 +1,4 @@
 # Laba1
-MiFirstLaba
+MyFirstLaba
+Alexandr Bamdaev
+M-FIIT-19
